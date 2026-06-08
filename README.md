@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=240&section=header&text=Suspiro&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%20Integrator%20%E2%80%A2%20Automation%20Architect&descAlignY=56&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=240&section=header&text=AnthRG&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%20Integrator%20%E2%80%A2%20Automation%20Architect&descAlignY=56&descSize=18" width="100%" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -29,29 +29,29 @@
 
 ---
 
-## Quién soy
+## <img src="https://api.iconify.design/mdi/account-circle.svg?color=%2358a6ff" width="26" /> Quién soy
 
 ```ts
-const suspiro = {
-  rol:        "Full-Stack & AI Automation Engineer",
+const anthrg = {
+  rol:          "Full-Stack & AI Automation Engineer",
   especialidad: "Llevar IA a software de producción, no a demos",
-  lenguajes:  ["TypeScript", "Java", "C# / .NET", "Dart", "Python"],
-  obsesiones: ["LLMs en apps reales", "arquitectura limpia", "tiempo real"],
-  dominios:   ["IA conversacional", "MES industrial", "fintech",
-               "salud", "e-commerce", "gaming multiplayer"],
-  filosofia:  "Si lo hago dos veces, lo automatizo",
+  lenguajes:    ["TypeScript", "Java", "C# / .NET", "Dart", "Python"],
+  obsesiones:   ["LLMs en apps reales", "arquitectura limpia", "tiempo real"],
+  dominios:     ["IA conversacional", "MES industrial", "fintech",
+                 "salud", "e-commerce", "gaming multiplayer"],
+  filosofia:    "Si lo hago dos veces, lo automatizo",
 };
 ```
 
 ---
 
-## En qué soy fuerte
+## <img src="https://api.iconify.design/mdi/lightning-bolt.svg?color=%2358a6ff" width="26" /> En qué soy fuerte
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### IA aplicada a negocio
+### <img src="https://api.iconify.design/mdi/robot-happy.svg?color=%2358a6ff" width="22" /> IA aplicada a negocio
 - Orquestación **multi-LLM** (Claude · Gemini · OpenAI) con routing y fallback
 - **Automatización de contexto de IA** para operar negocios vía lenguaje natural
 - Agentes conversacionales (WhatsApp) con colas en background, audio→texto y OCR
@@ -61,7 +61,7 @@ const suspiro = {
 </td>
 <td width="50%" valign="top">
 
-### Backend enterprise
+### <img src="https://api.iconify.design/mdi/server-network.svg?color=%2358a6ff" width="22" /> Backend enterprise
 - **Microservicios** con Spring Cloud: gateway, service discovery, config, tracing
 - **MES industrial**: RabbitMQ, Redis, MinIO, TLS automático con Traefik
 - **Clean Architecture** multicapa en .NET 8
@@ -73,7 +73,7 @@ const suspiro = {
 <tr>
 <td width="50%" valign="top">
 
-### Dominios sensibles
+### <img src="https://api.iconify.design/mdi/shield-lock.svg?color=%2358a6ff" width="22" /> Dominios sensibles
 - **Facturación electrónica fiscal** (e-CF, firma XAdES-BES, XML)
 - Transacciones **atómicas** (stock + factura + secuencia fiscal)
 - **Fintech** con dashboards financieros e IA
@@ -82,7 +82,7 @@ const suspiro = {
 </td>
 <td width="50%" valign="top">
 
-### Tiempo real & multiplataforma
+### <img src="https://api.iconify.design/mdi/gamepad-variant.svg?color=%2358a6ff" width="22" /> Tiempo real & multiplataforma
 - **Multiplayer** con Socket.IO / Firebase RTDB y lógica de juego compleja
 - **VR/XR** en Unity (hand tracking, UI espacial) y networking con Photon Fusion
 - Móvil **Flutter** y **React Native / Expo** con pipeline de release (TestFlight/Play/OTA)
@@ -94,7 +94,7 @@ const suspiro = {
 
 ---
 
-## Stack
+## <img src="https://api.iconify.design/mdi/hammer-wrench.svg?color=%2358a6ff" width="26" /> Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,java,cs,dotnet,python,dart&perline=14" alt="languages" /><br/>
@@ -107,45 +107,20 @@ const suspiro = {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  WOW FACTOR #2 · STATS + STREAK                  -->
+<!--          WOW FACTOR · SNAKE EATING CONTRIBUTIONS                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## Estadísticas
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnthRG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthRG&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnthRG&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--               WOW FACTOR #3 · TROFEOS ANIMADOS                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## Trofeos
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnthRG&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" />
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--          WOW FACTOR #4 · SNAKE EATING CONTRIBUTIONS             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## Contribuciones
+## <img src="https://api.iconify.design/mdi/snake.svg?color=%2358a6ff" width="26" /> Contribuciones
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AnthRG/AnthRG/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--             WOW FACTOR #5 · ACTIVITY GRAPH (curva)               -->
+<!--             WOW FACTOR · ACTIVITY GRAPH (curva)                 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## Actividad
+## <img src="https://api.iconify.design/mdi/chart-line.svg?color=%2358a6ff" width="26" /> Actividad
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnthRG&theme=tokyo-night&hide_border=true&area=true&custom_title=Mi%20ritmo%20de%20commits" width="100%" alt="activity graph" />
@@ -153,7 +128,7 @@ const suspiro = {
 
 ---
 
-## Conecta conmigo
+## <img src="https://api.iconify.design/mdi/link-variant.svg?color=%2358a6ff" width="26" /> Conecta conmigo
 
 <p align="center">
   <a href="https://wa.me/18299610424"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" /></a>
