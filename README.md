@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Conecto+LLMs+con+software+de+producci%C3%B3n;Automatizo+el+contexto+de+IA+para+operar+negocios;Arquitecturas+enterprise%2C+MES+industriales+y+SSO;Web%2C+m%C3%B3vil%2C+fintech%2C+salud+y+gaming+en+tiempo+real;Si+lo+hago+dos+veces%2C+lo+automatizo" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=IA+en+producci%C3%B3n%2C+no+en+demos;Automatizo+negocios+con+LLMs;Backend+que+escala;Tiempo+real.+Cero+fricci%C3%B3n.;Si+lo+hago+dos+veces%2C+lo+automatizo" alt="Typing SVG" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@
 
 ---
 
-## 🧠 Quién soy
+## Quién soy
 
 ```ts
 const suspiro = {
@@ -45,13 +45,13 @@ const suspiro = {
 
 ---
 
-## ⚡ En qué soy fuerte
+## En qué soy fuerte
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 IA aplicada a negocio
+### IA aplicada a negocio
 - Orquestación **multi-LLM** (Claude · Gemini · OpenAI) con routing y fallback
 - **Automatización de contexto de IA** para operar negocios vía lenguaje natural
 - Agentes conversacionales (WhatsApp) con colas en background, audio→texto y OCR
@@ -61,7 +61,7 @@ const suspiro = {
 </td>
 <td width="50%" valign="top">
 
-### 🏗️ Backend enterprise
+### Backend enterprise
 - **Microservicios** con Spring Cloud: gateway, service discovery, config, tracing
 - **MES industrial**: RabbitMQ, Redis, MinIO, TLS automático con Traefik
 - **Clean Architecture** multicapa en .NET 8
@@ -73,7 +73,7 @@ const suspiro = {
 <tr>
 <td width="50%" valign="top">
 
-### 💸 Dominios sensibles
+### Dominios sensibles
 - **Facturación electrónica fiscal** (e-CF, firma XAdES-BES, XML)
 - Transacciones **atómicas** (stock + factura + secuencia fiscal)
 - **Fintech** con dashboards financieros e IA
@@ -82,7 +82,7 @@ const suspiro = {
 </td>
 <td width="50%" valign="top">
 
-### 🎮 Tiempo real & multiplataforma
+### Tiempo real & multiplataforma
 - **Multiplayer** con Socket.IO / Firebase RTDB y lógica de juego compleja
 - **VR/XR** en Unity (hand tracking, UI espacial) y networking con Photon Fusion
 - Móvil **Flutter** y **React Native / Expo** con pipeline de release (TestFlight/Play/OTA)
@@ -94,7 +94,7 @@ const suspiro = {
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,java,cs,dotnet,python,dart&perline=14" alt="languages" /><br/>
@@ -110,7 +110,7 @@ const suspiro = {
 <!--                  WOW FACTOR #2 · STATS + STREAK                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📊 Estadísticas
+## Estadísticas
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnthRG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="github stats" />
@@ -125,7 +125,7 @@ const suspiro = {
 <!--               WOW FACTOR #3 · TROFEOS ANIMADOS                   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🏆 Trofeos
+## Trofeos
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AnthRG&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" />
@@ -135,7 +135,7 @@ const suspiro = {
 <!--          WOW FACTOR #4 · SNAKE EATING CONTRIBUTIONS             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🐍 Mi contribución, devorada
+## Contribuciones
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AnthRG/AnthRG/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
@@ -145,7 +145,7 @@ const suspiro = {
 <!--             WOW FACTOR #5 · ACTIVITY GRAPH (curva)               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📈 Actividad
+## Actividad
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnthRG&theme=tokyo-night&hide_border=true&area=true&custom_title=Mi%20ritmo%20de%20commits" width="100%" alt="activity graph" />
@@ -153,7 +153,7 @@ const suspiro = {
 
 ---
 
-## 🤝 Conecta conmigo
+## Conecta conmigo
 
 <p align="center">
   <a href="https://wa.me/18299610424"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" /></a>
