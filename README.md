@@ -12,19 +12,8 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=IA+en+producci%C3%B3n%2C+no+en+demos;Automatizo+negocios+con+LLMs;Backend+que+escala;Tiempo+real.+Cero+fricci%C3%B3n.;Si+lo+hago+dos+veces%2C+lo+automatizo" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+que+escala;Automatizo+negocios+con+LLMs;Tiempo+real.+Cero+fricci%C3%B3n.;Si+lo+hago+dos+veces%2C+lo+automatizo" alt="Typing SVG" />
   </a>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   BADGES / CONTADOR DE VISITAS                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnthRG&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/AnthRG?label=Followers&style=for-the-badge&color=blueviolet" alt="followers" />
-  <img src="https://img.shields.io/badge/AI-Multi--LLM%20Orchestration-success?style=for-the-badge&logo=anthropic&logoColor=white" alt="ai" />
-  <img src="https://img.shields.io/badge/Focus-Automation-orange?style=for-the-badge" alt="focus" />
 </p>
 
 ---
@@ -35,10 +24,10 @@
 const anthrg = {
   rol:          "Full-Stack & AI Automation Engineer",
   especialidad: "Llevar IA a software de producción, no a demos",
-  lenguajes:    ["TypeScript", "Java", "C# / .NET", "Dart", "Python"],
+  lenguajes:    ["TypeScript", "Java", "Python"],
   obsesiones:   ["LLMs en apps reales", "arquitectura limpia", "tiempo real"],
-  dominios:     ["IA conversacional", "MES industrial", "fintech",
-                 "salud", "e-commerce", "gaming multiplayer"],
+  dominios:     ["IA conversacional", "MES industrial", "Juegos",
+                 "MedTech", "e-commerce"],
   filosofia:    "Si lo hago dos veces, lo automatizo",
 };
 ```
@@ -97,42 +86,21 @@ const anthrg = {
 ## <img src="https://api.iconify.design/mdi/hammer-wrench.svg?color=%2358a6ff" width="26" /> Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,cs,dotnet,python,dart&perline=14" alt="languages" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,astro,tailwind,flutter,unity&perline=14" alt="frontend" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,firebase,supabase,prisma&perline=14" alt="backend" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,rabbitmq&perline=14" alt="data" /><br/>
-  <img src="https://skillicons.dev/icons?i=docker,cloudflare,vite,git,github&perline=14" alt="infra" />
+  <img src="https://skillicons.dev/icons?i=ts,java,python,dart&perline=14" alt="languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,astro,tailwind,flutter&perline=14" alt="frontend" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,firebase,supabase&perline=14" alt="backend" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&perline=14" alt="data" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,cloudflare,vite,git&perline=14" alt="infra" />
 </p>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--          WOW FACTOR · SNAKE EATING CONTRIBUTIONS                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## <img src="https://api.iconify.design/mdi/snake.svg?color=%2358a6ff" width="26" /> Contribuciones
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AnthRG/AnthRG/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--             WOW FACTOR · ACTIVITY GRAPH (curva)                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## <img src="https://api.iconify.design/mdi/chart-line.svg?color=%2358a6ff" width="26" /> Actividad
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnthRG&theme=tokyo-night&hide_border=true&area=true&custom_title=Mi%20ritmo%20de%20commits" width="100%" alt="activity graph" />
-</p>
-
----
 
 ## <img src="https://api.iconify.design/mdi/link-variant.svg?color=%2358a6ff" width="26" /> Conecta conmigo
 
 <p align="center">
   <a href="https://wa.me/18299610424"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" /></a>
-  <a href="mailto:joelosiris11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="mailto:1anthonyrosario21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://github.com/AnthRG"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
   <a href="https://www.linkedin.com/in/anthony-rosario-gutierrez-595602302/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 </p>
